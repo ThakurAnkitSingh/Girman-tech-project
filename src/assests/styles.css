@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f8f9fa;
+  }
+  
+  .search-input {
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+    border-radius: 5px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+  }
+  
+  .dialog {
+    padding: 20px;
+    border-radius: 10px;
+    background: white;
+    max-width: 500px;
+  }
+  
